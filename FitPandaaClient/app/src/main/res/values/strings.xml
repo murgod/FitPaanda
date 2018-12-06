@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fitpandaa Client</string>
+
+    <string-array name="items">
+        <item>Burger</item>
+        <item>Chicken</item>
+        <item>French Fries</item>
+        <item>Onion Rings</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$3.50</item>
+        <item>$4.00</item>
+        <item>$1.50</item>
+        <item>$2.00</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Cal 500</item>
+        <item>Cal 200</item>
+        <item>Cal 200</item>
+        <item>Cal 150</item>
+    </string-array>
+
+</resources>
